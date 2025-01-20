@@ -20,5 +20,3 @@ Early development.
 		<td><code>hsl(240, 13%, 14%)</code></td>
 	</tr>
 </table>
-## Preview/预览  
-![截图 2025-01-16 16-54-20](https://github.com/user-attachments/assets/a4f0924a-58da-400a-9d25-2bc2a7cf34ad)
